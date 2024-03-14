@@ -1,0 +1,8 @@
+# ninja log v5
+0	49	7320936631528009	build.ninja	cfa953fa895ad52c
+452	517	1708362357261389341	rpg	48f2eeee620caebb
+6	364	7320936631528009	build.ninja	f1de9d82db820629
+2	1054	7320936642568351	CMakeFiles/rpg.dir/Character/Character.cpp.obj	3b2314544de3778
+24	1349	7320936645521412	CMakeFiles/rpg.dir/Player/Player.cpp.obj	e761ec9f36b6caf
+16	1364	7320936645666347	CMakeFiles/rpg.dir/Enemy/Enemy.cpp.obj	748e4c9e0f702460
+31	1546	7320936647507738	CMakeFiles/rpg.dir/main.cpp.obj	b9e31ec38a98f82b
