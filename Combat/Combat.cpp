@@ -23,7 +23,7 @@ void Combat::addParticipant(Character *participant) {
 }
 
 void Combat::prepareCombat() {
-    sort(participants.begin(), participants.end(), compareSpeed);
+    short(participants.begin(), participants.end(), compareSpeed);
 }
 
 void Combat::doCombat() {

@@ -35,6 +35,7 @@ public:
     int getSpeed();
     string toString();
     bool getIsPlayer();
+    bool
 };
 
 
